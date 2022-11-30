@@ -1,10 +1,9 @@
-# QB
+# The contribution of QB performance to winning
 
 An introductory look into the common school of thought that a QB's performance is the most important factor to winning and losing games in the NFL.
 
 
 
-'''
 Conclusion: Passer rating on its own is not a reliable indicator of winning vs losing. 
 Proper evaluation of the impact of a QBs performance's on winning should involve: 
     - replace rating with other stats
@@ -18,3 +17,6 @@ Proper evaluation of the impact of a QBs performance's on winning should involve
     - separate analysis on different game situations (ex: by quarter/half, trailing/leading)
     
 Another direction could be to evaluate outcome based on the difference between opposing QB performance.
+
+
+* Note - code no longer applicable, as profootballreference no longer allows data to be scraped for free. 

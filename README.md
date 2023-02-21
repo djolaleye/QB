@@ -19,4 +19,4 @@ Proper evaluation of the impact of a QBs performance's on winning should involve
 Another direction could be to evaluate outcome based on the difference between opposing QB performances.  
 
 
-* Note - code no longer applicable, profootballreference no longer allows data to be scraped for free. 
+* Deprecated - requires profootballreference data access. 
